@@ -1,9 +1,18 @@
-### Hi there 👋 I'm Andres Santos,
+### Hey, I’m Andres Santos 👋
 
-A quality analyst who carries within himself the systems development bias. I am an enthusiastic IT professional and a person used to technology.
+**Quality Engineer • AI Enthusiast**
 
-- 🔭 I’m currently working as a Quality Analyst at [Sicredi](https://www.sicredi.com.br/site/home).
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andres-da-silva-santos-46b622150/)
+I’m a quality engineer who also writes software. Lately I’ve been working on AI projects, aiming to deliver practical solutions to real‑world problems.
+
+---
+
+#### 🚀 What I’m up to
+- 🏢 Quality Engineer at [Sicredi](https://www.sicredi.com.br/site/home)  
+- ✍️ Latest article: [Artificial Intelligence at Sicredi](https://medium.com/sicreditech/inteligência-artificial-no-sicredi-3cf5b3a533ff)  
+- 🌐 Portfolio / blog: [whosandres.dev](https://www.whosandres.dev)  
+
+#### 📫 Find me online
+[LinkedIn](https://www.linkedin.com/in/andres-da-silva-santos-46b622150/)
 
 <!---
 andresssantos/andresssantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
